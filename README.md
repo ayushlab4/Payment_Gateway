@@ -1,5 +1,6 @@
 # Payment Gateway
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+
+![Screenshot 2023-12-04 203246](https://github.com/ayushlab4/Payment_Gateway/assets/80815483/59b284d4-fa7a-49c8-ac87-f6132ac60e72)
 
 The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others.
 Video about [GitHub Profile README](https://twitter.com/github/status/1294348292130836482?s=20)
